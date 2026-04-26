@@ -1,0 +1,5 @@
+.env
+.env.example
+pull_solutions.py
+*.pyc
+__pycache__/
